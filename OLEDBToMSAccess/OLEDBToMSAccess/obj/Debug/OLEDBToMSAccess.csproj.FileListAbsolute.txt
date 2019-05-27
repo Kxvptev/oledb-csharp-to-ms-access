@@ -1,0 +1,8 @@
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\bin\Debug\online_shop.mdb
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\bin\Debug\OLEDBToMSAccess.exe.config
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\bin\Debug\OLEDBToMSAccess.exe
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\bin\Debug\OLEDBToMSAccess.pdb
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\obj\Debug\OLEDBToMSAccess.csprojAssemblyReference.cache
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\obj\Debug\OLEDBToMSAccess.csproj.CoreCompileInputs.cache
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\obj\Debug\OLEDBToMSAccess.exe
+D:\Программирование\MS VCSharp\OLEDBToMSAccess\OLEDBToMSAccess\obj\Debug\OLEDBToMSAccess.pdb
